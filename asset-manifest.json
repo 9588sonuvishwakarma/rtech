@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/rtech/static/css/main.e136c8d1.css",
-    "main.js": "/rtech/static/js/main.bd626edc.js",
+    "main.js": "/rtech/static/js/main.0db02849.js",
     "static/js/787.cda612ba.chunk.js": "/rtech/static/js/787.cda612ba.chunk.js",
+    "static/media/37.jpg": "/rtech/static/media/37.299c16142ef5a3e63070.jpg",
     "index.html": "/rtech/index.html",
     "main.e136c8d1.css.map": "/rtech/static/css/main.e136c8d1.css.map",
-    "main.bd626edc.js.map": "/rtech/static/js/main.bd626edc.js.map",
+    "main.0db02849.js.map": "/rtech/static/js/main.0db02849.js.map",
     "787.cda612ba.chunk.js.map": "/rtech/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e136c8d1.css",
-    "static/js/main.bd626edc.js"
+    "static/js/main.0db02849.js"
   ]
 }
