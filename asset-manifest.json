@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rtech/static/css/main.e136c8d1.css",
+    "main.js": "/rtech/static/js/main.bd626edc.js",
+    "static/js/787.cda612ba.chunk.js": "/rtech/static/js/787.cda612ba.chunk.js",
+    "index.html": "/rtech/index.html",
+    "main.e136c8d1.css.map": "/rtech/static/css/main.e136c8d1.css.map",
+    "main.bd626edc.js.map": "/rtech/static/js/main.bd626edc.js.map",
+    "787.cda612ba.chunk.js.map": "/rtech/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e136c8d1.css",
+    "static/js/main.bd626edc.js"
+  ]
+}
